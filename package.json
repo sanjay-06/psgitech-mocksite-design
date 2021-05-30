@@ -1,0 +1,22 @@
+{
+  "name": "itech",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sanjay-06/psgitech-mocksite-design.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sanjay-06/psgitech-mocksite-design/issues"
+  },
+  "homepage": "https://github.com/sanjay-06/psgitech-mocksite-design#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
